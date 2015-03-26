@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"  dir="ltr" lang="fr-FR"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="keywords" content="Freelance, developpement internet, interface, mobile, iPad, Tablette, Joomla, Magento, freelance, prestataire, Alsace, formateur" />
+<meta name="author" content="Olivier Legras" />
+<meta name="description" content="Olivier Legras, consultant multimédia et developpeur de site internet, mobile, tablette, e-commerce, spécialiste Joomla.
+Développer ou refondre votre site internet avec Joomla gérer votre boutique en ligne avec Magento ou animer votre reseau social d'entreprise grâce à votre intranet collaboratif" />
+<title>Olivier Legras - consultant multimédia freelance spécialisé dans la création de site internet et d'application mobile sur tablette ou smartphone</title>
+<link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="css/reset.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="css/contact.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="css/print.css" rel="stylesheet" type="text/css" media="print" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,600,800' rel='stylesheet' type='text/css' />
+<link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
+<link href="css/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" media="screen" />
+<script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+<script src="js/jquery-1.7.1.js" type="text/javascript"></script>
+<script src="js/jquery-easing-1.3.js" type="text/javascript"></script>
+<script src="js/modernizr.js" type="text/javascript"></script>
+<script src="js/jquery.gomap-1.3.2.min.js" type="text/javascript"></script>
+<script src="js/jquery.isotope.min.js" type="text/javascript"></script>
+<script src="js/jquery.isotope.load.simple.js" type="text/javascript"></script>
+<script src="js/jquery.form.js" type="text/javascript"></script>
+<script src="js/input.fields.js" type="text/javascript"></script>
+<script src="js/responsive-nav.js" type="text/javascript"></script>
+<!--<script src="js/jquery.jtweetsanywhere-1.3.1.min.js" type="text/javascript"></script>-->
+<!--<script defer src="js/jquery.flexslider-min.js"></script>-->
+<script src="js/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+<script src="js/stayOnTop.js" type="text/javascript"></script>
+<script src="js/custom.js" type="text/javascript"></script>
+    
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<header id="wrapper">
+  <div id="logo-container">
+    <h1 id="logo"><a href="index.php"><img src="images/logov3.png"></a></h1>
+<!--    <p class="slogan"> Freelance web &amp; mobile</p>-->
+  </div>
+  <!-- start navi -->
+  <div id="nav-bg"><div id="nav-button">
+  	<span class="nav-bar"></span>
+    <span class="nav-bar"></span>
+    <span class="nav-bar"></span>
+  </div></div>
+  
+  <div id="options" class="clearfix">
+    <ul id="filters" class="option-set clearfix" data-option-key="filter">
+      <li><a href="#filter" data-option-value="*" class="selected">Accueil</a></li>
+      <li><a href="#filter" data-option-value=".services">Services</a></li>
+      <li><a href="#filter" data-option-value=".portfolio">Portfolio</a></li>
+      <li><a href="#filter" data-option-value=".about">Solutions</a></li>
+      <li><a href="#filter" data-option-value=".blog">A propos</a></li>
+      <li><a href="#filter" data-option-value=".contact">Contact</a></li>
+    </ul>
+  </div>
+  <!-- end nav -->
+</header>
+<!-- end header -->
+<div class="container">
+  <div id="container" class="clearfix">
+    <div class="element  clearfix col2-3 home">
+      <h2>Olivier Legras</h2>
+      <h3>Consultant multimédia <span>freelance</span> spécialisé dans la <span>création de site</span> internet et d'application mobile sur <span>tablette</span> ou smartphone <br><br><span>DON'T WORRY, BE APP !</span></h3>
+    </div>
+
+<div class="element  clearfix col1-3 blog">
+      <div class="movable-content">
+      
+        <div class="images"><img src="images/olivier-legras.jpg" alt="" /></div>
+      </div>
+      <div class="infos">
+     <p class="blockquote" align="center"><br>“ Suivez-moi. ”<br><br>
+<a href="http://www.facebook.com/pages/Strasbourg-France/Consultant-Multimedia/141766559188833" target="_blank" title="facebook"> <img class="opacity" src="images/Facebook.png" border="0" alt="Facebook" /> </a>
+<a href="http://www.youtube.com/user/vjolivierlegras" target="_blank" title="Youtube"><img class="opacity" src="images/YouTube.png" border="0" alt="Youtube" /></a>
+<a href="http://www.flickr.com/photos/olivierlegras/" target="_blank" title="Flickr"> <img class="opacity" src="images/Flickr.png" border="0" alt="" /></a>
+<a href="http://www.linkedin.com/pub/olivier-legras/10/9b8/835" target="_blank" title="Linkedin"><img class="opacity" src="images/LinkedIn.png" border="0" alt="" /></a><br>
+<a href="http://feeds.feedburner.com/consultant-multimedia" target="_blank" title="Rss"><img class="opacity" src="images/Feed.png" border="0" alt="" /></a>
+<a href="https://twitter.com/olivelegras" target="_blank" title="Twitter"><img class="opacity" src="images/Twitter.png" border="0" alt="" /></a>
+<a href="http://plus.google.com/photos/102235878671435424471/albums" target="_blank" title="Picasa"><img class="opacity" src="images/Picasa.png" border="0" alt="" /></a>
+<a href="skype:legras1?call" target="_blank" title="Skype"><img class="opacity" src="images/Skype.png" border="0" alt="" /></a>
+      </p>
+      </div>
+    </div>
+
+   <div class="element  clearfix col1-3 home no-padding">
+      <div id="twitter_update_list"><ul class="jta-tweet-list">
+      	<li>J'aime une vido @YouTube: "Travelling Travel'in Minneapolis"  l'adresse <a target="_blank"rel="nofollow"href="http://t.co/Sumg73KhT3">http://t.co/Sumg73KhT3</a>. - 12 days ago</li>     	
+   </ul>   	
+      </div>
+    </div>
+   
+    <div class="element  clearfix col2-3 services">
+      <h2>Mes Services</h2>
+      <h3>Développeur, webdesigner, formateur, réalisateur et <span>passionné<br>
+         
+      </span><div class="images43"><img src="images/freelance-mobile.png" width="518" height="260" alt="freelance developpement mobile" style="margin-top:15px;"></div></h3>
+    </div>
+    <div class="element  clearfix col1-3 blog no-padding"><div class="images"><img src="images/pic2.jpg" alt="" /></div></div>
+    <div class="element  clearfix col1-3 services">
+      <h2>Développement</h2>
+      <p>Je développe votre site internet (sur-mesure ou avec un cms),  votre boutique en ligne et déploie également votre intranet collaboratif</p>
+    </div>
+    <div class="element  clearfix col1-3 services">
+      <h2>Application Mobile</h2>
+      <p>Je conçois et développe des applications riches interactives ou mobiles sur smartphone et tablette (iPhone, iPad, Androïd...)</p>
+    </div>
+    <div class="element  clearfix col1-3 services">
+      <h2>Studio Multimédia</h2>
+      <p>Borne interactive, installation numérique, photo, vidéo, vjing, production sonore, réalisation webradio et studio de radio mobile</p>
+    </div>
+    <div class="element  clearfix col1-3 services">
+      <h2>Formation</h2>
+      <p>Consultant Multimédia est aussi un organisme de formation agréé qui intervient dans la formation des métiers du web </p>
+    </div>
+    
+<div class='element  clearfix col1-3 portfolio'>      
+<div class='movable-content'>        
+<div class='images'><img src='admin/uploads/album_137/th1_AP-4-olivier-legras.jpg' alt='' /></div>        
+<div class='title'>          <h4>Acoustic LAB</h4>          <p>Mobile, Application, WebApp</p>        
+</div>      </div>      
+<div class='infos'><a href='creation/mobile-application-webapp/acoustic-lab/reference-137.html'>        
+<div class='tab'><i class='icons view-more'></i>En détail</div>        
+</a><a href='admin/uploads/album_137/th2_AP-4-olivier-legras.jpg' class='popup'>       
+ <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        
+ </a>        
+ <a href='http://www.audemarspiguet.com/fr/latest/2014/12/09/acoustic-research-episode-1-the-sound-awakens' target='_blank'>        
+ <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_136/th1_changr-bts.jpg' alt='' /></div>        <div class='title'>          <h4>Changr, BTS London</h4>          <p>Mobile, Application, WebApp</p>        </div>      </div>      <div class='infos'><a href='creation/mobile-application-webapp/changr-bts-london/reference-136.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_136/th2_changr-bts.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.btsjourney.com/changr/' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_134/th1_dilemme-junior-cresus.jpg' alt='' /></div>        <div class='title'>          <h4>Dilemme junior Cresus</h4>          <p>Mobile, Application, WebApp</p>        </div>      </div>      <div class='infos'><a href='creation/mobile-application-webapp/dilemme-junior-cresus/reference-134.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_134/th2_dilemme-junior-cresus.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.dilemme.org' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_135/th1_aeroport-des-vosges.jpg' alt='' /></div>        <div class='title'>          <h4>Vosges Aéroport</h4>          <p>Site Internet</p>        </div>      </div>      <div class='infos'><a href='creation/site-internet/vosges-an-roport/reference-135.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_135/th2_aeroport-des-vosges.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.epinal-mirecourt.aeroport.fr/' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_127/th1_application-ipad-accompagnement.jpg' alt='' /></div>        <div class='title'>          <h4>Accompagnement</h4>          <p>Mobile, Application, WebApp</p>        </div>      </div>      <div class='infos'><a href='creation/mobile-application-webapp/accompagnement/reference-127.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_127/th2_application-ipad-accompagnement.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_126/th1_Site-internet-architecte-Schweitzer.jpg' alt='' /></div>        <div class='title'>          <h4>Architecte S&AA</h4>          <p>Site Internet</p>        </div>      </div>      <div class='infos'><a href='creation/site-internet/architecte-s-aa/reference-126.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_126/th2_Site-internet-architecte-Schweitzer.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.schweitzer-associes.com/' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_124/th1_iPad-LGI.jpg' alt='' /></div>        <div class='title'>          <h4>LGI, Barcelone</h4>          <p>Mobile, Application, WebApp</p>        </div>      </div>      <div class='infos'><a href='creation/mobile-application-webapp/lgi-barcelone/reference-124.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_124/th2_iPad-LGI.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_125/th1_clip-airmegapix.jpg' alt='' /></div>        <div class='title'>          <h4>Clip vidéo Airmegapix</h4>          <p>Vidéo</p>        </div>      </div>      <div class='infos'><a href='creation/vidn-o/clip-vidn-o-airmegapix/reference-125.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_125/th2_clip-airmegapix.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_123/th1_5108e7015d1dbtz_portfolio_1359537921_XL.jpg' alt='' /></div>        <div class='title'>          <h4>App mobile flux4</h4>          <p>Mobile, Application, WebApp</p>        </div>      </div>      <div class='infos'><a href='creation/mobile-application-webapp/app-mobile-flux4/reference-123.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_123/th2_5108e7015d1dbtz_portfolio_1359537921_XL.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.flux4.com' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_128/th1_iPad-logica.jpg' alt='' /></div>        <div class='title'>          <h4>Logica, Londres</h4>          <p>Mobile, Application, WebApp</p>        </div>      </div>      <div class='infos'><a href='creation/mobile-application-webapp/logica-londres/reference-128.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_128/th2_iPad-logica.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_129/th1_editionlito-collection.jpg' alt='' /></div>        <div class='title'>          <h4>Edition Lito</h4>          <p>Site Internet</p>        </div>      </div>      <div class='infos'><a href='creation/site-internet/edition-lito/reference-129.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_129/th2_editionlito-collection.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.editionslito.com/' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_130/th1_Page_acceuil.jpg' alt='' /></div>        <div class='title'>          <h4>Château de Lichtenberg</h4>          <p>Site Internet</p>        </div>      </div>      <div class='infos'><a href='creation/site-internet/chnoteau-de-lichtenberg/reference-130.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_130/th2_Page_acceuil.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.chateaudelichtenberg.com' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_131/th1_cresus-olivier-legras.jpg' alt='' /></div>        <div class='title'>          <h4>CRESUS plateforme</h4>          <p>Site Internet</p>        </div>      </div>      <div class='infos'><a href='creation/site-internet/cresus-plateforme/reference-131.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_131/th2_cresus-olivier-legras.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.cresusalsace.org' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_132/th1_geosoltis.jpg' alt='' /></div>        <div class='title'>          <h4>Geosoltis</h4>          <p>Vidéo</p>        </div>      </div>      <div class='infos'><a href='creation/vidn-o/geosoltis/reference-132.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_132/th2_geosoltis.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.geosoltis.com' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div><div class='element  clearfix col1-3 portfolio'>      <div class='movable-content'>        <div class='images'><img src='admin/uploads/album_133/th1_Communauté de communes Moyenne Moselle - Communauté de communes Moyenne Moselle_1280269756249.jpg' alt='' /></div>        <div class='title'>          <h4>CCMM Moselle</h4>          <p>Site Internet</p>        </div>      </div>      <div class='infos'><a href='creation/site-internet/ccmm-moselle/reference-133.html'>        <div class='tab'><i class='icons view-more'></i>En détail</div>        </a><a href='admin/uploads/album_133/th2_Communauté de communes Moyenne Moselle - Communauté de communes Moyenne Moselle_1280269756249.jpg' class='popup'>        <div class='tab'><i class='icons zoom'></i>Voir un aperçu</div>        </a>        <a href='http://www.moyenne-moselle.fr/' target='_blank'>        <div class='tab last'><i class='icons link'></i>Visitez le site</div></a>        </div>    </div>     
+    
+    
+<!--    <div class="element  clearfix col1-3 portfolio load-more">Plus de project ...</div>-->
+    <div class="element  clearfix col2-3 about">
+      <h2>Mes solutions</h2>
+      <h3>Quel que soit <span>votre projet</span>, je mets en place des <span>solutions digitales adaptées</span>.</h3>
+    </div>
+    <div class="element  clearfix col1-3 about">
+      <div class="movable-content">
+        <div class="images"><img src="images/about2.jpg" alt="" /></div>
+        <div class="title">
+          <h4>Développement</h4>
+        </div>
+      </div>
+      <div class="infos">
+          <h3><span>html5 css3 php angularJS joomla</span></h3>
+      </div>
+    </div>
+    <div class="element  clearfix col1-3 about">
+      <div class="movable-content">
+        <div class="images"><img src="images/about1.jpg" alt="" /></div>
+        <div class="title">
+          <h4>Application Mobile</h4>
+          </div>
+      </div>
+      <div class="infos">
+      <h3><span>flash Air as3 Starling PhoneGap</span></h3>
+      </div>
+    </div>
+    <div class="element  clearfix col1-3 about">
+      <div class="movable-content">
+        <div class="images"><img src="images/about3.jpg" alt="" /></div>
+        <div class="title">
+          <h4>Studio Multimédia</h4>
+        </div>
+      </div>
+      <div class="infos">
+      <h3><span>photo studio radio vidéo HD</span></h3></div>
+    </div>
+    <div class="element  clearfix col2-3 blog">
+      <h2>Pixel &amp; Décibel</h2>
+      <h3><a href="https://soundcloud.com/mezzemix" target="_blank">Musicien</a> amateur, j'aime <a href="http://www.flickr.com/photos/olivierlegras/" target="_blank"><span>photographier</span></a>, <a href="http://www.youtube.com/user/vjolivierlegras" target="_blank"><span>filmer</span></a> et <a href="http://www.flux4.com/ecoutez/emissions.html" target="_blank"><span>enregistrer</span></a> les musiques vibrantes. Je cultive et partage mes passions au sein de la <span>webradio</span> <a href="http://www.flux4.com" target="_blank">flux4</a>.</h3>
+    </div>
+ 
+    <div class="element  clearfix col1-3 blog no-padding"><div class="images"><img src="images/creer-votre-webradio.jpg" alt="" /></div></div>
+
+ 
+    <div class="element  clearfix col2-3 contact">
+      <div id="map"></div>
+    </div>
+    <div class="element  clearfix col1-3 contact">
+      <h2>Contact Studio</h2>
+      <p> 41 rue de la gare<br>
+          67300 SCHILTIGHEIM</p>
+      <p><a href="mailto:contact@consultant-multimedia.com">contact(a)consultant-multimedia.com</a><br />
+          <a href="tel:0616240874">06 16 24 08 74</a></p>
+    </div>
+    <div class="element  clearfix col1-3 contact">
+      <h2>Demandez un devis</h2>
+      <p><a href="mailto:contact@consultant-multimedia.com?subject=Demande de devis">Disponible, je m'engage à  répondre rapidement à vos questions concernant l'élaboration de votre projet</a></p>
+    </div>
+ </div>
+</div>
+<!-- end header -->
+<footer class="centered">© 2013, Consultant Multimédia. Tous droits réservés<br><br>
+  <a href="http://www.facebook.com/pages/Strasbourg-France/Consultant-Multimedia/141766559188833" target="_blank" title="facebook"> <img class="opacity" src="images/Facebook.png" border="0" alt="Facebook" /> </a> <a href="http://www.youtube.com/user/vjolivierlegras" target="_blank" title="Youtube"><img class="opacity" src="images/YouTube.png" border="0" alt="Youtube" /> </a> <a href="http://www.flickr.com/photos/olivierlegras/" target="_blank" title="Flickr"> <img class="opacity" src="images/Flickr.png" border="0" alt="" /></a> <a href="http://www.linkedin.com/pub/olivier-legras/10/9b8/835" target="_blank" title="Linkedin"><img class="opacity" src="images/LinkedIn.png" border="0" alt="" /></a> <a href="https://twitter.com/olivelegras" target="_blank" title="Twitter"><img class="opacity" src="images/Twitter.png" border="0" alt="" /></a> <a href="http://plus.google.com/photos/102235878671435424471/albums" target="_blank" title="Picasa"><img class="opacity" src="images/Picasa.png" border="0" alt="" /></a> <a href="skype:legras1?call" target="_blank" title="Skype"><img class="opacity" src="images/Skype.png" border="0" alt="" /></a>
+</footer>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1326807-13']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
