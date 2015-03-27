@@ -277,7 +277,6 @@ only screen and (min-device-pixel-ratio: 1.5) {
 }
 #owl-demo .owl-item img{
   display: block;
-  width:auto;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;

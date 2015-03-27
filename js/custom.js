@@ -183,6 +183,7 @@ jQuery(document).ready(function(){
 	
 	$('#owl-demo, .owl-item div, .owl-item img').css('height',slideHeight);
 
+
 	$(window).resize(function(){'use strict',
 		$('#slider, .carousel.slide, .carousel-inner, .carousel-inner .item').css('height',slideHeight);
 		$('#owl-demo, .owl-item div, .owl-item img').css('height',slideHeight);
