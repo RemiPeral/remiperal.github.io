@@ -152,7 +152,6 @@ jQuery(document).ready(function(){
       // itemsMobile : false
  
   });
-<<<<<<< HEAD
   
   $("#owl-slide").owlCarousel({
 	  autoPlay : 3000,
@@ -169,25 +168,21 @@ jQuery(document).ready(function(){
       // itemsMobile : false
  
   });
-
-=======
-      $("#owl-demo").owlCarousel({
-        autoPlay : 3000,
-        stopOnHover : true,
-        navigation:true,
-        paginationSpeed : 1000,
-        goToFirstSpeed : 2000,
-        singleItem : true,
-        autoHeight : true,
-        transitionStyle:"fade"
-      });
-    
-		var options = {
-
-			$AutoPlay: true,                                  
-			$DragOrientation: 1
-		};
->>>>>>> parent of 49ef6a7... Responsivité de l'image d'accueil
+  $("#owl-demo").owlCarousel({
+	  autoPlay : 3000,
+      navigation : true, // Show next and prev buttons
+      slideSpeed : 300,
+      paginationSpeed : 400,
+      singleItem:true
+ 
+      // "singleItem:true" is a shortcut for:
+      // items : 1, 
+      // itemsDesktop : false,
+      // itemsDesktopSmall : false,
+      // itemsTablet: false,
+      // itemsMobile : false
+ 
+  });
 
 		var jssor_slider1 = new $JssorSlider$("slider1_container", options);
 	
@@ -199,9 +194,11 @@ jQuery(document).ready(function(){
 	var slideHeight = $(window).height();
 	
 	$('#slider, .carousel.slide, .carousel-inner, .carousel-inner .item').css('height',slideHeight);
+	$('#owl-demo, .owl-item div, .owl-item img').css('height',slideHeight);
 
 	$(window).resize(function(){'use strict',
 		$('#slider, .carousel.slide, .carousel-inner, .carousel-inner .item').css('height',slideHeight);
+		$('#owl-demo, .owl-item div, .owl-item img').css('height',slideHeight);
 	});
 	
 
