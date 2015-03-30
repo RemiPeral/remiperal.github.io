@@ -89,36 +89,36 @@ jQuery(document).ready(function(){
 	
 	$("#lAccueil").click(function () {
         $("html, body").stop().animate({
-             scrollTop: 700 + 'px'
+             scrollTop:  $(window).height() - 40 +'px'
         }, 1500, "easeInOutExpo")
     });
 	
     $("#leBts").click(function () {
         $("html, body").stop().animate({
-            scrollTop: 700 + 'px'
+             scrollTop:  $(window).height() - 40 +'px'
         }, 1500, "easeInOutExpo")
     });
 	
 	 $("#leCv").click(function () {
         $("html, body").stop().animate({
-            scrollTop: 700 + 'px'
+             scrollTop:  $(window).height() - 40 +'px'
         }, 1500, "easeInOutExpo")
     });
 	
 	 $("#leStage").click(function () {
         $("html, body").stop().animate({
-            scrollTop: 700  + 'px'
+             scrollTop:  $(window).height() - 40 +'px'
         }, 1500, "easeInOutExpo")
     });
 	
 	 $("#laReal").click(function () {
         $("html, body").stop().animate({
-			scrollTop: 700 + 'px'
+             scrollTop:  $(window).height() - 40 +'px'
         }, 1500, "easeInOutExpo")
     });
 	 $("#laMusique").click(function () {
         $("html, body").stop().animate({
-            scrollTop: 700 + 'px'
+             scrollTop:  $(window).height() - 40 +'px'
         }, 1500, "easeInOutExpo")
     });
 	
