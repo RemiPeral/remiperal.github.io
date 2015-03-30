@@ -142,7 +142,6 @@ jQuery(document).ready(function(){
 	
 });
 
-
 	$(".fancybox").fancybox({
 		padding: 0,
 
@@ -170,6 +169,9 @@ jQuery(document).ready(function(){
       // itemsMobile : false
  
   });
+  
+  //Automatisme du slider
+  
   
 	var options = {
 
