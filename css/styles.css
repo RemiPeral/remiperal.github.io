@@ -274,6 +274,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 
 #owl-demo .owl-item div{
   padding:5px;
+  
 }
 #owl-demo .owl-item img{
   display: block;

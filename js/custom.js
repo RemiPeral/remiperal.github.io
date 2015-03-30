@@ -132,10 +132,13 @@ jQuery(document).ready(function(){
 	$('#slider, .carousel.slide, .carousel-inner, .carousel-inner .item').css('height',slideHeight);
 	$('#owl-demo, .owl-item div, .owl-item img').css('height',slideHeight);
 	
-	$(window).resize(function(){'use strict',
+	$(window).resize(function(){
+	
+		var slideHeight = $(window).height();
 		$('#slider, .carousel.slide, .carousel-inner, .carousel-inner .item').css('height',slideHeight);
-		
 		$('#owl-demo, .owl-item div, .owl-item img').css('height',slideHeight);
+		$
+		
 	});
 	
 
