@@ -170,6 +170,12 @@ jQuery(document).ready(function(){
       // itemsMobile : false
  
   });
+  
+	var options = {
+
+			$AutoPlay: true,                                  
+			$DragOrientation: 1
+		};
 
 		var jssor_slider1 = new $JssorSlider$("slider1_container", options);
 	
