@@ -161,7 +161,7 @@ box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
 .titleFormations {height:620px; width:620px; background:#fbfbfb; position:absolute; bottom:0px; }
 .logo { width:206px; height:99px; text-align:center; border:1px solid #1b1c1e; border-left:0px; padding-top:33px; float:left; margin-top:1px; margin-bottom:1px; }
 .logo.last {border-right:0px; }
-.stages, .about , .cv{overflow:hidden; }
+.stages, .about , .cv, .realisations{overflow:hidden; }
 .load-more {background:url(../images/bg-load.png) center 45px no-repeat #0099DF; background-size:26px 26px; display:block; height:216px; width:220px; font-size:18px; line-height:26px; padding:84px 40px 0px 40px; color:#fbfbfb; letter-spacing:-1px; cursor:pointer !important; text-align:center}
 @media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
 only screen and (-moz-min-device-pixel-ratio: 1.5),
