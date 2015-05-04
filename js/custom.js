@@ -65,6 +65,12 @@ jQuery(document).ready(function(){
 			display: 'inline-block',
 		});
 		
+		jQuery('.infosStages').css({
+			display: 'inline-block',
+		});
+		jQuery('.infosPerso').css({
+			display: 'inline-block',
+		});
 		jQuery('.infos').css({
 			display: 'inline-block',
 		});

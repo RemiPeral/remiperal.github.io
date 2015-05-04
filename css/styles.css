@@ -23,12 +23,13 @@ body { font: 18px 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif; c
 strong { font-weight:bold; }
 a, a > * {-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; -o-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; }
 p { line-height:36px; font-size:25px; font-weight:300; letter-spacing:-1px }
+.descriptionPerso{ line-height:36px; font-size:25px; font-weight:300; letter-spacing:-1px; padding: 25px 50px 0px 55px;}
 .col2-3 p, .col1-1 p, .col1-1lightbox p , .sliderlightbox p{ padding:20px 40px 0px 40px; }
 .col1-3 p { padding:14px 20px 0px 20px; }
 p.comments { padding:14px 40px 0px 40px; }
 .title p {font-size:18px; color:#a3a3a3; padding:0px 20px 0px 20px; font-weight:400; }
 .infos p {font-size:18px; padding:0px 20px 0px 20px; font-weight:400; }
-.infosFormations p {font-size:18px; padding:0px 20px 0px 20px; font-weight:400; }
+.infosStages p {font-size:18px; padding: 25px 50px 0px 55px; font-weight:400; }
 p.blockquote { font-family:Georgia, "Times New Roman", Times, serif; font-style:italic; font-weight:normal; padding:21px 20px 20px 20px; clear:both }
 p.blockquote span {font: 12px 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif; color:#777; text-transform:uppercase; letter-spacing:1px; }
 .col2-3 p.blockquote { padding:20px 40px 20px 60px; }
@@ -61,6 +62,12 @@ h4 { font-size:23px; font-weight:700; color:#c7c7c7; padding:47px 40px 0px 40px;
 .infos h4 span{ font-size:35px; font-weight:300; color:#0eb493; font-family:'Open Sans', sans-serif; line-height:38px; }
 .infosFormations h4 { padding:25px 50px 0px 55px; padding-top:14px; line-height:1; font-size:23px; }
 .infosFormations h2 { padding:25px 50px 0px 55px;padding-top:60px; font-size:23px;}
+.infosStages h4 { padding:25px 50px 0px 55px; padding-top:14px; line-height:1; font-size:23px; }
+.infosStages h2 { padding:25px 50px 0px 55px;padding-top:90px; font-size:23px;}
+.infosPerso h4 { padding:25px 50px 0px 55px;padding-top:60px; font-size:23px;}
+.infosPerso h2 { padding:25px 50px 0px 55px;padding-top:60px; font-size:23px;}
+.descriptionPerso span{ padding:25px 50px 0px 0px;  font-size:23px; font-weight:700; color:#c7c7c7;}
+.infosPerso img {width:250px; height:250px; padding-left:250px; }
 /* End Headings
 --------------------------------------------------------------------------------------------------------*/
 
@@ -153,7 +160,9 @@ box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
 .sliderlightbox{ width:430px; height:300px; margin:10px; float:left; background:#f4f7f9; }
 .slider{ padding-top:45px; display:block; position:relative; -webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; -o-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; overflow:hidden; background-color: #DBDEDF;}
 .colContact{width:620px; height:295px; margin:10px; float:left; background:#f4f7f9; border-bottom :3px solid #128670;}
+.colStages{width:620px; height:295px; margin:10px; float:left; background:#f4f7f9; border-bottom :3px solid #128670;}
 .colFormations{ width:620px; height:620px; margin:10px; float:left; background:#f4f7f9; border-bottom :3px solid #128670;}
+.colPerso{ width:620px; height:620px; margin:10px; float:left; background:#f4f7f9; border-bottom :3px solid #128670;}
 .colCercle{ background:#f4f7f9; border-radius:50%; width:300px; height:300px; border:2px solid #128670;}
 .break { height:50px; position:relative; }
 .images { display:block; position:relative; -webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; -o-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; overflow:hidden; background-color: #DBDEDF;}
@@ -229,7 +238,9 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .images img {width:100%; display: block; z-index:9 }
 .slider img {width:100%; display: block; z-index:9 }
 .infos {width:300px; height:300px; top:0; left:0px; border:0; padding:0; display:none; z-index:1; background:#1F313A; position:absolute; }
+.infosPerso{width:620px; height:620px; top:0; left:0px; border:0; padding:0; display:none; z-index:1; background:#1F313A; position:absolute; }
 .infosFormations {width:620px; height:620px; top:0; left:0px; border:0; padding:0; display:none; z-index:1; background:#1F313A; position:absolute; }
+.infosStages {width:620px; height:620px; top:0; left:0px; border:0; padding:0; display:none; z-index:1; background:#1F313A; position:absolute; }
 .movable-contentFormations {z-index:2; position:absolute; width:620px; height:620px; }
 .infos-single-work {width:300px; height:300px;  }
 .movable-content {z-index:2; position:absolute; width:300px; height:300px; }
