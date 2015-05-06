@@ -24,7 +24,7 @@ strong { font-weight:bold; }
 a, a > * {-webkit-transition: all 0.2s ease 0s; -moz-transition: all 0.2s ease 0s; -o-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; }
 p { line-height:36px; font-size:25px; font-weight:300; letter-spacing:-1px }
 .descriptionPerso{ line-height:36px; font-size:25px; font-weight:300; letter-spacing:-1px; padding: 25px 50px 0px 55px;}
-.col2-3 p, .col1-1 p, .col1-1lightbox p , .sliderlightbox p{ padding:20px 40px 0px 40px; }
+.col2-3 p, .col1-1 p, .col1-1lightbox p , .col1-1lightbox2 p, .sliderlightbox p{ padding:20px 40px 0px 40px; }
 .col1-3 p { padding:14px 20px 0px 20px; }
 p.comments { padding:14px 40px 0px 40px; }
 .title p {font-size:18px; color:#a3a3a3; padding:0px 20px 0px 20px; font-weight:400; }
@@ -154,6 +154,7 @@ box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
 --------------------------------------------------------------------------------------------------------*/
 .col1-1 { width:940px; margin:10px; background:#f4f7f9; }
 .col1-1lightbox { width:800px; height:350px; margin:10px; background:#f4f7f9; }
+.col1-1lightbox2{ width:800px; height:370px; margin:10px; background:#f4f7f9; }
 .col1-3 { width:300px; height:300px; margin:10px; float:left; background:#f4f7f9; border-bottom :3px solid #128670;}
 .col2-3 { width:620px; height:620px; margin:10px; float:left; background:#f4f7f9; }
 .col1-3slider{width:300px; height:300px; margin:10px; float:left; background: #DBDEDF; border-bottom :3px solid #128670;}
