@@ -78,9 +78,9 @@
   
   <div id="options" class="clearfix">
     <ul id="filters" class="option-set clearfix" data-option-key="filter">
-      <li><a href="#filter" id = "lAccueil" data-option-value="*" class="selected">Accueil</a></li>
-      <li><a href="#filter" id = "leCv" data-option-value=".cv">CV</a></li>
-      <li><a href="#filter" id = "leStage" data-option-value=".stages, .missionExpert">Stages</a></li>
+      <li><a href="#filter" id = "lAccueil" data-option-value=":not(.fichePerso)" class="selected">Accueil</a></li>
+      <li><a href="#filter" id = "leCv" data-option-value=".cv, .fichePerso">CV</a></li>
+      <li><a href="#filter" id = "leStage" data-option-value=".stages, .missionExpert ">Stages</a></li>
       <li><a href="#filter" id = "laReal" data-option-value=".realisations, .missionBTS">Réalisations</a></li>
       <li><a href="#filter" id = "laMusique" data-option-value=".musique">Musique</a></li>
       <li><a href="#filter" id = "leBts" data-option-value=".btssio">A propos du BTS SIO</a></li>
@@ -178,7 +178,7 @@
     </div>
     </div>
 	
-	<div class="element clearfix colPerso cv">
+	<div class="element clearfix colPerso fichePerso">
 	 <div class="movable-contentPerso">
         
       </div>
@@ -309,7 +309,7 @@
 	
 	<div class="element  clearfix col1-3 cv">
       <div class="movable-content">
-        <div class="images"><img src="img/langue.jpg" alt="" /></div>
+        <div class="images"><img src="img/langue.png" alt="" /></div>
         <div class="title">
           <h4>Langue</h4>
         </div>
@@ -419,22 +419,38 @@
 	  
 			<a class="fancybox fancybox.iframe" rel="detailsExpertise" title="Expertise & Concept | Stage de seconde année" href="detailsExpertise.html">
 			<div class='tab'><i class='icons fa fa-info'> </i>A propos de l'entreprise</div></a>  
-			<a href='lesitedeLentreprise'>        
+			<a href='http://www.expertiseconcept.com/'>        
 			<div class='tab'><i class='icons fa fa-location-arrow'></i>Site internet</div></a>  
 			
 			  
 		</div>
       </div>
 	
+	<div class='element work-item clearfix col1-3 missionExpert' style = "border-bottom :3px solid #25404E;">      
+		<div class='movable-content'>  
+			<div class="images"><img src="img/mission3.png" alt="" /></div>
+				<div class='title'>          
+					<h4>Mission 1</h4>
+					<p>Maintenance informatique</p>
+				</div>
+		<figcaption class="overlay">
+			<a class="fancybox fancybox.iframe" rel="mission1" title="Mission 1 | Stage de seconde année" href="mission1.html"><i class="fa fa-eye fa-lg"></i></a>
+						<h4>PHP, Jquery, JSon, MVC Backbone, gestion de projet</h4>
+						<p>Recettage, corrections de bugs, assistance & ajout de fonctionnalités </p>
+		</figcaption>
+		</div>
+	</div>
+	
+	
     <div class='element work-item clearfix col1-3 missionExpert' style = "border-bottom :3px solid #25404E;">      
 		<div class='movable-content'>  
 			<div class="images"><img src="img/mission3.png" alt="" /></div>
 				<div class='title'>          
-					<h4>Mission 3</h4>
+					<h4>Mission 2</h4>
 					<p>Développement d'application</p>
 				</div>
 		<figcaption class="overlay">
-			<a class="fancybox fancybox.iframe" rel="mission3" title="Mission 3 | Stage de seconde année" href="concept.html"><i class="fa fa-eye fa-lg"></i></a>
+			<a class="fancybox fancybox.iframe" rel="mission3" title="Mission 2 | Stage de seconde année" href="concept.html"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>Python, Veille technologique</h4>
 						<p>Application de génération de script d'insertion</p>
 		</figcaption>
