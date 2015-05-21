@@ -109,9 +109,9 @@ form{background: #f7f2ec url('img/letter_bg.png');position: relative; top:130px;
 /* =Info-Bulle
 --------------------------------------------------------------------------------------------------------*/
 .tooltip{ position: relative; cursor: help; display: inline-block; text-decoration: none; color: #0eb493; font-family: "Fredericka The Great", serif; outline: none;}
-.tooltip span{ font-family:Arial, Helvetica, sans-serif; font-size:17px; font-weight:300;letter-spacing:-1px; color:#FFFFFF;
+.tooltip span{ font-family:Open Sans, Helvetica, sans-serif; font-size:15px; font-weight:300; letter-spacing:-1px; color:#FFFFFF;
 
-visibility: hidden; position: absolute; bottom: 60px; left: 0%; z-index: 999; width: 450px; margin-left: -127px; padding: 10px; border: 2px solid #128670; opacity: .9;
+visibility: hidden; position: absolute; bottom: 60px; left: 50%; z-index: 999; width: 245px; margin-left: -127px; padding: 10px; border: 2px solid #128670; opacity: .9;
 background-color: #128670;
 background-image: -webkit-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
 background-image: -moz-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
@@ -149,6 +149,53 @@ box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
 
 /* End Info-bulle
 --------------------------------------------------------------------------------------------------------*/
+
+/* =Info-Bulle Spécial Objet
+--------------------------------------------------------------------------------------------------------*/
+.tooltip2{ position: relative; cursor: help; display: inline-block; text-decoration: none; color: #0eb493; font-family: "Fredericka The Great", serif; outline: none;}
+.tooltip2 span{ font-family:Open Sans, Helvetica, sans-serif; font-size:15px; font-weight:300; letter-spacing:-1px; color:#FFFFFF;
+
+visibility: hidden; position: absolute; bottom: 60px; left: 90%; z-index: 999; width: 200px; margin-left: -127px; padding: 10px; border: 2px solid #128670; opacity: .9;
+background-color: #128670;
+background-image: -webkit-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+background-image: -moz-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+background-image: -ms-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+background-image: -o-linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+background-image: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,0));
+-moz-border-radius: 4px;
+border-radius: 4px;
+-moz-box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+box-shadow: 0 1px 2px rgba(0,0,0,.4), 0 1px 0 rgba(255,255,255,.5) inset;
+}
+.tooltip2:hover{border: 0; /* IE6 fix */}
+.tooltip2:hover span{visibility: visible;}
+.tooltip2 span:before,
+.tooltip2 span:after
+{
+  content: "";
+  position: absolute;
+  z-index: 1000;
+  bottom: -7px;
+  left: 45%;
+  margin-left: -8px;
+  border-top: 8px solid #128670;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 0;
+}
+
+.tooltip2 span:before
+{
+  border-top-color: #128670;
+  bottom: -8px;
+}
+
+/* End Info-bulle Spécial Objet
+--------------------------------------------------------------------------------------------------------*/
+
+
+
 
 /* =Main Content
 --------------------------------------------------------------------------------------------------------*/
