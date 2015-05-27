@@ -26,6 +26,8 @@ p { line-height:36px; font-size:25px; font-weight:300; letter-spacing:-1px }
 .descriptionPerso{ line-height:36px; font-size:25px; font-weight:300; letter-spacing:-1px; padding: 25px 50px 0px 55px;}
 .col2-3 p, .col1-1 p, .col1-1lightbox p , .col1-1lightbox2 p, .sliderlightbox p{ padding:20px 40px 0px 40px; }
 .col1-3 p { padding:14px 20px 0px 20px; }
+.col1-3 p a{ color:#999; text-decoration:none;}
+.col1-3 p a:hover{ color:#c7c7c7; text-decoration:none;}
 p.comments { padding:14px 40px 0px 40px; }
 .title p {font-size:18px; color:#a3a3a3; padding:0px 20px 0px 20px; font-weight:400; }
 .infos p {font-size:18px; padding:0px 20px 0px 20px; font-weight:400; }
